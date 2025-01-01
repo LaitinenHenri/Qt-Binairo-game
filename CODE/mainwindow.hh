@@ -16,8 +16,6 @@
  * Game can be reset or quit at any point using reset and quit buttons.
  *
  * Henri Laitinen
- * opp.num. 150500492
- * henri.m.laitinen@tuni.fi
  *
  *
  * */
