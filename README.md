@@ -5,16 +5,16 @@ https://youtu.be/YZXHR2DC89c
 
 **NOTE!**
 
-Not everything in this code is written by me. This was a school project where we were given this template that we had to use to build out binairo game off of.
-Basically the gameboard header andd source files have **NOT** been created by me. The mainwindow header and source files have been created by me which contains all the graphical user interface (GUI) stuff. Due to this I will only publish the mainWIndow code and a video of running the code. 
+Not everything in this code is written by me. This was a school project where we were given this template that we had to use to build our binairo game off of.
+Basically the gameboard header and source files have **NOT** been created by me. The mainwindow header and source files have been created by me which contains all the graphical user interface (GUI) stuff. Due to this I will only publish the mainWindow code and a video of running the code. 
 
-In this project we were tasked to create an gui for a binairo game. We had already during the course created the basic console versino that is the gameboard here, but now we were given this template to use
+In this project we were tasked to create an gui for a binairo game. We had already during the course created the basic console version that is the gameboard here, but now we were given this template to use
 although we could have used that. So now our job was to create Gui the user could use to play the binairo. Other requirements were to give the user the choise to either input custom starting board or to use random board, 
  a reset button and a timer. We also could desing features for extra point which I did.  I added a graphical way to alter the gameboard size, pictures for the game pieces (simple dots), a score counter, and I also added feature where the background changes color when the user wins the game.
  From this Task I received full points 100/100
 
 
- This was the first prroject where I created a grahical user inteface in c++. This project taught me alot about creating Gui's and also about QT creators desing tools and how to implement them.
+ This was the first project where I created a grahical user inteface in C++. This project taught me alot about creating Gui's and also about QT creators desing tools and how to implement them.
 
 The folowing is a instruction manual I wrote for this code, where I explained how to use the code and how I planed and developed this code. It is only writen in finnish: 
 
