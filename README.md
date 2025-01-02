@@ -1,5 +1,8 @@
 # Qt-Binairo-game
 
+**LINK TO DEMO VIDEO**
+https://youtu.be/YZXHR2DC89c
+
 **NOTE!**
 
 Not everything in this code is written by me. This was a school project where we were given this template that we had to use to build out binairo game off of.
